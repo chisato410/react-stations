@@ -6,13 +6,13 @@ import './App.css'
  * @type {() => JSX.Element}
  */
 export const App = () => {
-  <html>
+  <App>
     <head>
       <body>
         <header>Dogアプリ</header>
       </body>
     </head>
-  </html>
+  </App>
   // <div className="App">
   //   <header className="App-header">
 
